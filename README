@@ -5,3 +5,8 @@ Removes confusion about the util-linux vs Perl versions of rename.
 
 Installs into /usr/local/bin, so it has precedence over your system's
 default rename.
+
+Installation
+------------
+
+sudo make install
